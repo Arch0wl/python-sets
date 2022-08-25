@@ -58,3 +58,19 @@ print(cars_no_dupl)
 # list 
 cars_no_dupl = list(set(cars)) 
 print(cars_no_dupl)
+
+# comments, why do we need them? 
+print("#Comments")
+# Hiding the comments 
+
+#Entry form for Ministry applications
+#to-do: fix it! it doesn’t work  
+name = "Default"
+print("Thank you " + name + "!")
+print("for applying to")
+print("the Minstry of Silly Walks")
+
+name = "Ann"
+print("Thank you " + name + "!")
+print("for applying to")
+print("the Minstry of Silly Walks")
